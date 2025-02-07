@@ -35,7 +35,7 @@ const addCart = ((item :IData): Promise<void>=> {
   if(data) {
     notifySuccess("Berhasil Ditambahkan")
   }else{
-    notifyError("Sudah Ditambahkan")
+    notifyError("Dihapus")
   }
   return Promise.resolve();
 })

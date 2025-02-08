@@ -8,6 +8,7 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 ## Requirement
 node version 18+ or 20+
 ## Installation
+- copy .env-example to .env
 - npm install
 - npm run dev
     
